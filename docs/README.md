@@ -96,8 +96,11 @@ def perimeter(a, b, c):
 ```
 
 # История коммитов
++ **[8ba9aeb](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/8ba9aeb3cea847b63a91ac378a2a6db758682460)**  - L-03: Circle and square added (2021-01-04)
++ **[d078c8d](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/d078c8d9ee6155f3cb0e577d28d337b791de28e2)**  - L-03: Docs added (2021-01-04)
 + **[8bb897a](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/8bb897a7a0db15f88cbaa0774cd588170493ea15)**  - add rectangle file (2024-09-21)
 + **[37671b9](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/37671b9466d7f6a1d989ef25ee25fe76974fae93)**  - add triangle file and fix perimeter function into rectangle file (2024-09-21)
 + **[3fbf03e](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/3fbf03eb9276c14b0228bda99e858bdb04011d35)**  - add comments to all functions (2024-09-21)
 + **[3e6b0fe](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/3e6b0febb7cfb395261a5913fb6d0d749f07e9dc)**  - add documentation in README (2024-09-22)
 + **[e03a586](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/e03a5865f99dd57257186cb4214e807790c1ac66)**  - delete dividers in README (2024-09-22)
++ **[e25f6f5](https://github.com/Robshak/ITMO_programming_tools_lab2/commit/e25f6f576186b53a550db56355b61d8bcd5489b9)**  - complete documentation (2024-09-22)
